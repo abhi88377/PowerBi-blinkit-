@@ -1,8 +1,8 @@
-Overview
+# Overview
 
 This repository contains a Power BI Desktop project that analyzes sales data for Blinkit, an Indian last-minute delivery app. The dashboard provides insights into total sales, average sales, number of items, average rating, and fat content across different outlet types, sizes, and locations.
 
-Features
+# Features
 
 Total Sales: Displays the total sales amount, which is currently at $0.1M.
 
@@ -24,7 +24,7 @@ Outlet Types: Analyzes the sales across different outlet types, including grocer
 
 Item Types: Displays the total sales of different item types, including fruits and vegetables.
 
-Filters
+# Filters
 
 Outlet Location Type: Allows users to filter the data by outlet location type.
 
